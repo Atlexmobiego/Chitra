@@ -5,4 +5,4 @@
 * Framework Agnostic Model Serving & Interactive UI prototype app ✨🌟
 * Data Visualization, Bounding Box Visualization 🐶🎨
 
-<!-- maintenance 2018 -->
+<!-- maintenance 2019 -->
