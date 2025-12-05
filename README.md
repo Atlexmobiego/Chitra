@@ -384,4 +384,3 @@ Read full [**Contributor Covenant Code of Conduct**](CODE_OF_CONDUCT.md)
 
 *chitra* is built with help of awesome libraries like [Tensorflow 2.x](https://github.com/tensorflow/tensorflow),
 [imgaug](https://github.com/aleju/imgaug), [FastAPI](https://github.com/tiangolo/fastapi) and [Gradio](https://gradio.app).
-<!-- maintenance 2025 -->
