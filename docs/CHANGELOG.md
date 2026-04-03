@@ -4,5 +4,3 @@
 * Auto Dockerization of Models 🐳
 * Framework Agnostic Model Serving & Interactive UI prototype app ✨🌟
 * Data Visualization, Bounding Box Visualization 🐶🎨
-
-<!-- maintenance 2025 -->
