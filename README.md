@@ -1,3 +1,4 @@
+<p align="center"><img alt="Python" src="https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white"> <img alt="Multimodal" src="https://img.shields.io/badge/Multimodal-ready-6f42c1?style=flat-square"> <img alt="LLM" src="https://img.shields.io/badge/LLM-supported-0e8a16?style=flat-square"></p>
 # chitra
 
 
